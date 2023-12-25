@@ -1,0 +1,50 @@
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.exe.config
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.exe
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.pdb
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.AssemblyReference.cache
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.SuggestedBindingRedirects.cache
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Form1.resources
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.cache
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.exe
+S:\USERS\51-02\Поливчак Алёна Олеговна\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.pdb
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.exe.config
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.exe
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.pdb
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.AssemblyReference.cache
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.SuggestedBindingRedirects.cache
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.cache
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.exe
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.pdb
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Directories.resources
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Add.resources
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.exe.config
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.exe
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.pdb
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.AssemblyReference.cache
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Add.resources
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Directories.resources
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Form1.resources
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.cache
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.exe
+C:\Users\kulmi\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.pdb
+C:\Users\юзер\Desktop\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Main.resources
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.exe.config
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.exe
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\bin\Debug\Ambulance.pdb
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.AssemblyReference.cache
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.SuggestedBindingRedirects.cache
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Add.resources
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Directories.resources
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Main.resources
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.cache
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.exe
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.pdb
+C:\Users\юзер\Desktop\КП\курсовая\Ambulance\Ambulance\obj\Debug\Ambulance.Requests.resources
